@@ -1,0 +1,1 @@
+Data Source=ES\SQLEXPRESS;Initial Catalog=DboTicariOtomasyon;Integrated Security=True
